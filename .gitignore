@@ -36,3 +36,6 @@ FashionMNISTdata/
 # Notebooks and cache
 .ipynb_checkpoints/
 .pytest_cache/
+
+# Demo outputs
+gradient_outputs/
