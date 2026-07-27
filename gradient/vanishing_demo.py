@@ -3,6 +3,7 @@ import math
 
 import numpy as np
 
+#20 层隐藏层 + 1 层输出层
 
 class DeepMLP:
     def __init__(self, input_dim=128, hidden_dim=128, hidden_layers=20, activation="sigmoid", seed=42):

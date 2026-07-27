@@ -100,7 +100,7 @@ for epoch in range(num_epochs):
 
     # 计算当前 epoch 的平均 loss, batch为单位
     train_avg_loss = total_loss / batch_num
-    # 计算当前 epoch 的平均 acc, batch为单位
+    # 计算当前 epoch 的平均 acc
     train_avg_acc = correct / total
 
 # ======测试集评估========

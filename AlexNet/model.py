@@ -1,5 +1,3 @@
-import netrc
-
 import torch
 from torch import nn
 
@@ -39,6 +37,13 @@ class AlexNet(nn.Module):
             nn.Linear(4096,10),
             nn.ReLU(),
         )
+
+    def forward(self, x):
+        return self.net(x)
+
+def init_weights(m):
+    if type(m) == nn.Conv2d or type(m) == nn.Linear:
+        nn.init.xavier_uniform_(m.weight)
 
 #打印台输出可以看每层大小
 # net = AlexNet()
