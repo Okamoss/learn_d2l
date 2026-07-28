@@ -9,6 +9,7 @@
 - `AlexNet/`：AlexNet 练习。
 - `NiN/`：Network in Network 练习。
 - `VGG/`：VGG 练习。
+- `GoogLeNet/`：GoogLeNet 练习。
 - `kaggle/`：Kaggle 房价预测代码。
 - `gradient/`：梯度消失演示脚本。
 
@@ -29,7 +30,7 @@
 - `models/`
 - `runs/`
 
-如果需要运行相关训练脚本，运行时会自动下载数据，或者你也可以在本地自行准备数据并放到对应目录中。
+如果需要运行相关训练脚本，运行时会自动下载数据，或者也可以在本地自行准备数据并放到对应目录中。
 
 ## 备注
 
