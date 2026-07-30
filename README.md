@@ -6,10 +6,12 @@
 
 - `mlp/`：多层感知机练习。
 - `lenet/`：LeNet 练习。
+- `lenet_BN/`：加入 BatchNorm 的 LeNet 练习。
 - `AlexNet/`：AlexNet 练习。
 - `NiN/`：Network in Network 练习。
 - `VGG/`：VGG 练习。
 - `GoogLeNet/`：GoogLeNet 练习。
+- `ResNet/`：ResNet 练习。
 - `kaggle/`：Kaggle 房价预测代码。
 - `gradient/`：梯度消失演示脚本。
 
