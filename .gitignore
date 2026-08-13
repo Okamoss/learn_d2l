@@ -39,3 +39,4 @@ FashionMNISTdata/
 
 # Demo outputs
 gradient_outputs/
+cifar10_flip_comparison.png

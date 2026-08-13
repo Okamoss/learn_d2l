@@ -12,6 +12,8 @@
 - `VGG/`：VGG 练习。
 - `GoogLeNet/`：GoogLeNet 练习。
 - `ResNet/`：ResNet 练习。
+- `RNN/`：字符级 RNN 练习。
+- `image_augmentation/`：CIFAR-10 数据增强练习。
 - `kaggle/`：Kaggle 房价预测代码。
 - `gradient/`：梯度消失演示脚本。
 
